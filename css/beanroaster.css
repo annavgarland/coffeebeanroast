@@ -27,7 +27,14 @@ footer {
 	width:622px;
 	background-color: BlanchedAlmond;
 }
-
+#Comments {
+	width: 622px;
+	text-align: center;
+}
+#dvResultsTable {
+	width: 622px;
+	
+}
 #fullpage { 
     background: #8c7165;
     color: white;
@@ -40,6 +47,23 @@ footer {
     transform: translate(-50%, -50%) 
 }
 
+#tdLoadImage {
+	width: 15%;
+}
+#tdUploadImage {
+	width:61%;
+}
+#tdPointerMode {
+	width: 24%;
+	text-align: center;
+}
+#tdRoastColour {
+	width: 80%;
+}
+#tdComments {
+	width: 20%;
+	text-align: left;
+}
 #tdldimglabel{
     width: 15%
 }
